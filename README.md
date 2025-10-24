@@ -1,42 +1,21 @@
-<h1 align="left"></h1>
+# Welcome!
 
-###
+I'm Rafael (or **Void**). I'm currently working on **open-source (NC) projects**, aiming to make the resources freely available for everyone to use, as long as they provide proper credit.
 
-<h1 align="left">Welcome!!</h1>
+I'm a **Brazilian student** who's truly passionate about programming. I started this journey in **August 2024**. Initially, I really disliked everything related to programming, but after some challenging times and unexpected events and changes, I began to genuinely **appreciate and enjoy** it.
 
-###
+---
 
-<p align="left">I'm Rafael (or Void). I'm currently working on NC stuff so people can use it freely as long as they give me credit for. <br>I'm a brazilian student  addicted to programming, i begun this  journey in August, 2024. At this point i hated all stuff co-relationed to programming and  this entire world but after some rough rides and rocky roads and above all unforeseen events i started to regard programming.</p>
+## Current Work
 
-###
+As I mentioned, I am developing a **web notebook** to compile all the techniques and interesting concepts I've learned from the beginning. You can check it out **[here](https://github.com/rafaellfelixz/KnwCtr.git)**.
 
-<h2 align="left">Currently work</h2>
+---
 
-###
-
-<p align="left">As said above, I'm developing a web notebook with all the techniques and things i find interesting to have a view at the beginning. It is <br> </p> [here](https://github.com/rafaellfelixz/KnwCtr.git)
-
-###
-
-<h3 align="left">Stats so far</h3>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
+### Stats So Far
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaellfelixz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Used%20langs" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaellfelixz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Used%20langs" height="150" alt="languages graph" />
+  <br>
   <img src="https://streak-stats.demolab.com?user=rafaellfelixz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
