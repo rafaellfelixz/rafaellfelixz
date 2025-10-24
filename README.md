@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">As said above, I'm developing a web notebook with all the techniques and things i find interesting to have a view at the beginning. It is <br>[here](https://github.com/rafaellfelixz/KnwCtr.git)</p>
+<p align="left">As said above, I'm developing a web notebook with all the techniques and things i find interesting to have a view at the beginning. It is <br> - [here](https://github.com/rafaellfelixz/KnwCtr.git)</p>
 
 ###
 
