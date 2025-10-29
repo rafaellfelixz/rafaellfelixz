@@ -15,7 +15,10 @@ As I mentioned, I am developing a **web notebook** to compile all the techniques
 ### Stats So Far
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaellfelixz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaellfelixz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+#
+Note: Hmm there is not a ton to show since I'm starting but I'm happy u came here and read this! xD
 
 ###
